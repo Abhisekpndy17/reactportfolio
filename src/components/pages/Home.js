@@ -68,7 +68,7 @@ export default class Header extends Component {
                     <div className='hero-second'>
                         <p>Hi I'm</p>
                         <h2>Abhishek <span>Pandey</span></h2>
-                        <p>Web Developer</p>
+                        <p>Web Developer hu</p>
                     </div>
                     <HeroTwo />
                 </div>
