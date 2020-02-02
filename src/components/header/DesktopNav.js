@@ -81,7 +81,7 @@ const MyDesktopNav = Styled.nav`
 export default function DesktopNav(props) {
     return (
         <MyDesktopNav>
-            <div className='logo'><Link className='link' to='/'>Logo</Link></div>
+            <div className='logo'><Link className='link' to='/'>Abhishek</Link></div>
             <Navlinks />
             <div className='hamburger' onClick={props.toggleClick}>
                 <div className='line'></div>
