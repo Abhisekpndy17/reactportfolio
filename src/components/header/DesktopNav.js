@@ -16,7 +16,7 @@ const MyDesktopNav = Styled.nav`
 
     .logo{
         
-        font-size:5vh;
+        font-size:4vh;
         text-transform:uppercase;
         font-weight:bold;
         
